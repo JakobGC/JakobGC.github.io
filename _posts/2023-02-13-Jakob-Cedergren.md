@@ -8,11 +8,11 @@ tags: [test]
 comments: true
 ---
 
-Jakob Cedergren
-2023
-History Major
-Very Basic Sewing Experience
-0 Programing Experience
+Jakob Cedergren,
+2023,
+History Major,
+Very Basic Sewing Experience,
+0 Programing Experience,
 I hope to learn basic programming skills, sewing skills, and circuit board building skills. 
 Boring Fact: I was born and raised in London, but you can't tell because of my accent.
 
