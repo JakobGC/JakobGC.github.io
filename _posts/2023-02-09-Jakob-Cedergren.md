@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jakob Cedergren's First Blog Post 
+title: The Lizard Wizard's post 
 subtitle: Class on Feb 9
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
