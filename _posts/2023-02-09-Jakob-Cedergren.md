@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Jakob Cedergren's First Blog Post 
+subtitle: Class on Feb 9
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+This is my very first blog post
 
-**Here is some bold text**
+**Beware of the Wizard Lizard**
 
-## Here is a secondary heading
+## Lizard Wizard
 
 Here's a useless table:
 
@@ -24,13 +24,13 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
+How about the Lizard who has become a wizard?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Lizard](https://i.redd.it/zgnh580wy8t21.jpg)
 
-It can also be centered!
+It can also be a centered lizard
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![Lizard](https://i.redd.it/zgnh580wy8t21.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
