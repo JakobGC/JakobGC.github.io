@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Lizard Wizard's first assignment post 
-subtitle: Class on Feb 9
+subtitle: Class on Feb 13
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
