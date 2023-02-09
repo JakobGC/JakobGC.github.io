@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Lizard Wizard's post 
+title: The Lizard Wizard's first assignment post 
 subtitle: Class on Feb 9
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -8,20 +8,18 @@ tags: [test]
 comments: true
 ---
 
-This is my very first blog post
+Jakob Cedergren
+2023
+History Major
+Very Basic Sewing Experience
+0 Programing Experience
+I hope to learn basic programming skills, sewing skills, and circuit board building skills. 
+Boring Fact: I was born and raised in London, but you can't tell because of my accent.
+
 
 **Beware of the Wizard Lizard**
 
 ## Lizard Wizard
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
 
 How about the Lizard who has become a wizard?
@@ -32,32 +30,6 @@ It can also be a centered lizard
 
 ![Lizard](https://i.redd.it/zgnh580wy8t21.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
 
 ## Boxes
 You can add notification, warning and error boxes like this:
