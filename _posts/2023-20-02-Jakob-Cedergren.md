@@ -16,12 +16,12 @@ One tip or trick that I would recommend to do when sewing, besides having 10 usa
 
 Front
 
-(![Front JPEG](https://user-images.githubusercontent.com/124645204/220213116-098f45af-5dc4-4ce3-9880-0c8c3c79b0ce.jpg)
+![Front JPEG](https://user-images.githubusercontent.com/124645204/220213116-098f45af-5dc4-4ce3-9880-0c8c3c79b0ce.jpg)
 
 
 Back
 
-(![Back JPEG](https://user-images.githubusercontent.com/124645204/220213138-f6b62e1b-946f-418c-bd48-039082e0ea63.jpg)
+![Back JPEG](https://user-images.githubusercontent.com/124645204/220213138-f6b62e1b-946f-418c-bd48-039082e0ea63.jpg)
 ){: .mx-auto.d-block :}
 
 
