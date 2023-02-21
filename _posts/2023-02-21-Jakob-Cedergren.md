@@ -8,7 +8,9 @@ tags: [test]
 comments: true
 ---
 
+I had to write a code that would inform you of what clothes to wear depending on the temperature outside. If its cold, the code might tell you to wear a sweater. If it is hot, the code might tell you to wear shorts.
 
+One tip for this assigment is to be creative about what the code relays, writing something funny can make the code unique.
 
 
 Check out my code
