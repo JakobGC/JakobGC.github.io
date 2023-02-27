@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My Sewing Project
-subtitle: Class on Feb 21
+title: My Plush Circuit Project
+subtitle: Class on Feb 28
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
