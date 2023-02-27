@@ -26,12 +26,12 @@ Front
 
 ![Back JPEG](https://user-images.githubusercontent.com/124645204/221447999-40b2e7aa-85c0-48e6-b048-f78eb55ca6fc.jpg)
 )
-){: .mx-auto.d-block :}
+
 
 Back
 
 
 ![Back JPEG](https://user-images.githubusercontent.com/124645204/221448030-0c3d16f7-c35f-40d6-adf9-57c08af08553.jpg)
 
-){: .mx-auto.d-block :}
+
 
