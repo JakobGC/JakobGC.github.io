@@ -16,13 +16,13 @@ One tip or trick that I would recommend to do when sewing, besides having 10 usa
 
 Paper Prototype
 
-![Front JPEG]! (https://user-images.githubusercontent.com/124645204/221447953-29e6e0f6-9554-41cc-b503-8606491c92f2.jpg)
+![Front JPEG](https://user-images.githubusercontent.com/124645204/221447953-29e6e0f6-9554-41cc-b503-8606491c92f2.jpg)
 
 
 
 Front
 
-![Back JPEG](![unnamed-3](https://user-images.githubusercontent.com/124645204/221447999-40b2e7aa-85c0-48e6-b048-f78eb55ca6fc.jpg)
+![Back JPEG](https://user-images.githubusercontent.com/124645204/221447999-40b2e7aa-85c0-48e6-b048-f78eb55ca6fc.jpg)
 )
 ){: .mx-auto.d-block :}
 
