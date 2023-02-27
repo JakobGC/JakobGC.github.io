@@ -8,7 +8,9 @@ tags: [test]
 comments: true
 ---
 
-One tip or trick that I would recommend to do when sewing, besides having 10 usable fingers, is to find a quiet room and listen to ambient music which helps me relax and focus on the task at hand. I found that my sewing was much better when I created this kind of environment.
+I had a difficult time sewing the thread through the battery pack. I set up my project using the outline from question 4. I executed the layout well, but I had to tape down some of the thread to keep everything tight on the plushy. My LED's are unreliable with the switch and button, sometimes it works and sometimes it doesn't. I think the issue was with the tightness of the thread. Overall, the project was difficult but I found it rewarding. 
+
+A trick I would recommend would be to cut the metal thread very carefully at the end to get a straight point. That way you can fit the thread into the various holes of the LEDS and Battery Pack Holder.
 
 
 
