@@ -17,7 +17,7 @@ The code will create an output determining which LED's are on and which are off.
 
 Output
 
-![Pork Sandwich](![ON, ON, ON](https://user-images.githubusercontent.com/124645204/222235010-23495443-36f6-44b4-9a45-8261a3237c38.jpg)
+![ON, ON, ON](https://user-images.githubusercontent.com/124645204/222235010-23495443-36f6-44b4-9a45-8261a3237c38.jpg)
 
 
 
