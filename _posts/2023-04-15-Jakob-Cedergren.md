@@ -22,7 +22,7 @@ Assignment 2
 
 Assignment 3
 
-![Paper proto](![unnamed-2](https://user-images.githubusercontent.com/124645204/225483692-59b99918-d9c1-41f4-a2ef-2709639a067c.jpg)
+(![unnamed-2](https://user-images.githubusercontent.com/124645204/225483692-59b99918-d9c1-41f4-a2ef-2709639a067c.jpg)
 
 
 
