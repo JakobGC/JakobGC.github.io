@@ -11,6 +11,6 @@ comments: true
 
 This project proposal outlines how I will execute my traffic light project. My proposal is at the bottom.
 
-![Traffic Light Project](https://user-images.githubusercontent.com/124645204/234105230-b2069ba4-44f9-4e90-86d3-c917d007d872.jpg)
 
+![Final Proposal](https://user-images.githubusercontent.com/124645204/234311248-2f9ba758-a86b-42d1-a311-7364603e2e8f.jpg)
 
