@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Prototype
+title: Paper Prototype (Traffic Light Project)
 subtitle: Class on May 2
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
