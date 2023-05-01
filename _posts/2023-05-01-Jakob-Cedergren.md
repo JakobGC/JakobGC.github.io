@@ -17,4 +17,4 @@ It will be operated by the arduino lilypad board where the RGB on the back side 
 The traffic light can be turned on and off via a switch and the brightness will be determined via a light sensor.
 
 
-![PAPER PROTOTYPE JPEG](https://user-images.githubusercontent.com/124645204/235537648-d6905290-e19e-4b98-bc4a-e789d4bc8aaf.jpg)
+![PAPER PROTOTYPE FINAL](https://user-images.githubusercontent.com/124645204/235538037-1b1758a2-c68d-46a6-b470-c6f4262fb1cc.jpg)
